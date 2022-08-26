@@ -7,7 +7,7 @@
 - You can as me to do things for you, more info in DM  
   
 
-- Everything can be learned  
+- Everything that I do is done for Educational Purposes only!
   
 
 <br/>  
