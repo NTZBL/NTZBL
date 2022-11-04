@@ -1,4 +1,4 @@
-### <div align="center">I'm NTZ, a developer working on random projects</div>  
+### <div align="center">I'm , a developer working on random projects</div>  
   
 
 -  I’m currently learning C++ and Java  
