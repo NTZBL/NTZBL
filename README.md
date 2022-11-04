@@ -1,4 +1,4 @@
-### <div align="center">I'm , a developer working on random projects</div>  
+### <div align="center">I'm NotZ3us, a developer working on random projects</div>  
   
 
 - You can ask me to do things for you, more info in DM  
