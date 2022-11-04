@@ -1,10 +1,7 @@
 ### <div align="center">I'm , a developer working on random projects</div>  
   
 
--  I’m currently learning C++ and Java  
-  
-
-- You can as me to do things for you, more info in DM  
+- You can ask me to do things for you, more info in DM  
   
 
 - Everything that I do is done for Educational Purposes only!
