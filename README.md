@@ -55,7 +55,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/NotZ3us" target="_blank">
+<a href="https://github.com/NTZBL" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/user/https://www.youtube.com/channel/UC16wcFkIkgW87w4vLI1ci_w" target="_blank">
@@ -72,12 +72,10 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31edqfq3evzt7r4fchv5hqme3vmu&cover_image=true&theme=default" /></div>  
-
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=NTZBL&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=NotZ3us&&style=flat-square" align="center" />
 </div>  
   
 
